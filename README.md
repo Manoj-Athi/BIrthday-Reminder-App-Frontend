@@ -10,4 +10,4 @@ To use the backend files, first you need to install xampp and add files which ar
 
 ## Frontend
 
-To use the React application, first install node and use '''npm start'''
+To use the React application, first install node and use ###```npm start``` in the terminal
